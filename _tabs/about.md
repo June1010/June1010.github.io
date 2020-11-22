@@ -10,5 +10,5 @@ order: 4
 # MIT License
 ---
 
-
+성균관대학교 소프트웨어학과 정석준
 > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
